@@ -1,6 +1,6 @@
-source: https://github.com/FIWARE-Ops/marinera
-release: demo
-destination_namespace: &destination demo
+source: https://github.com/johwes/marinera
+release: 1.0.0
+destination_namespace: &destination fiware
 branch: &branch main
 secretsEnabled: &secretsEnabled false
 host: &host
